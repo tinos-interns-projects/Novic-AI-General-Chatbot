@@ -1,7 +1,5 @@
 # Novic-AI-General-Chatbot
 
-# Novic-AI-General-Chatbot
-
 <div align="center">
 
 # Novic-AI  
