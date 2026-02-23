@@ -78,6 +78,9 @@ textnovic-ai/
 ├── streamlit_app.py         # Main app (UI + auth)
 ├── rag_chain.py             # RAG logic (retrieval + generation)
 └── README.md
+
+
+
 🎯 Project Compliance Highlights
 
 
