@@ -1,0 +1,20 @@
+Novic-AI General Purpose Chatbot
+Project by Murshida T and Muhammed Anshad A
+
+Objective: Build an AI chatbot that understands user queries, extracts meaning, remembers context, and provides fast, human-like responses with high accuracy and reliability.
+
+Features:
+• Natural LLM-based responses
+• Consistent tone/persona
+• Rich media support (images, links, buttons)
+• Fact-based retrieval from external sources
+• Context memory
+• Response time under 3 seconds
+
+Tech Stack: LangChain, ChromaDB, Python, Flask/Streamlit, SQLite/Postgres
+
+Deliverables:
+• Fully functional AI chatbot
+• Web widget UI integrated into website
+• Model training & retraining pipeline
+• Documentation (setup, usage, API)
